@@ -1,0 +1,7 @@
+check_name,row_count
+raw rows,541909
+cancelled / returns,9288
+missing CustomerID,135080
+non-positive qty/price,11805
+orders reversed by a cancellation,5563
+clean sales rows,385929
